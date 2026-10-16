@@ -35,7 +35,10 @@ Background Work - WorkManager
 Tests - JUnit (Unit test), Turbine (Flow test), Compose UI tests
 On-device AI - Gemini Nano
 Images - Coil
+Audio - MediaRecorder
 
 ### 4. DB Structure
+
+
 
 ### 5. Flow Diagram
