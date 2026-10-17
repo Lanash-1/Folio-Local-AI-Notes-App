@@ -39,6 +39,8 @@ Audio - MediaRecorder
 
 ### 4. DB Structure
 
-
+Note - id, title, content, folder, tags
 
 ### 5. Flow Diagram
+
+https://claude.ai/design/p/17a7c6fd-04ac-45a6-bf07-ffd422765215?file=Folio+Prototype.dc.html
